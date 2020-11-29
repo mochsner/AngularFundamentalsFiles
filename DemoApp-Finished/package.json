@@ -12,12 +12,10 @@
     "body-parser": "1.13.1",
     "express": "4.13.0"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "karma start test/karma.conf.js",
-	"start": "node scripts/web-server.js"
+    "start": "node scripts/web-server.js"
   },
   "author": "",
   "license": "ISC"
